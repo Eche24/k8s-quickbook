@@ -1,0 +1,6 @@
+Pod
+
+```
+kubectl get pods
+
+```
