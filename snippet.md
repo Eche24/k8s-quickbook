@@ -1,6 +1,5 @@
 Pod
 
-```sh
+```pwsh
 kubectl get pods
-
 ```
