@@ -1,4 +1,4 @@
-wapoff -a
+swapoff -a
 sed -i '/ swap / s/^\(.*\)$/#\1/g' /etc/fstab
 
 lsmod | grep br_netfilter
