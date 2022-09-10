@@ -4,6 +4,7 @@
 $ kubectl run nginx --image=nginx
 
 `
+kubectl apply -f https://docs.projectcalico.org/manifests/calico.yaml
 
 
 `
